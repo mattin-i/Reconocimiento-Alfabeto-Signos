@@ -9,11 +9,11 @@ Tutor : Carlos Santana Vega
 </p>
 
 ## Introducción
-Misión
+### Misión
 Hemos buscado implementar una solución sencilla que facilite el aprendizaje del abecedario dactilológico en tiempo real.
-Visión
+### Visión
 Una solución que además sea accesible e inclusiva para todos. Permitiendo que estemos socialmente más unidos.
-Valores
+### Valores
 Demostrar que una discapacidad del habla como una afasia o  una agnosia no son una barrera para la autonomía e independencia de la persona que vive con ella.
 
 ## Pre-requisitos
