@@ -16,6 +16,18 @@ Una solución que además sea accesible e inclusiva para todos. Permitiendo que 
 ### Valores
 Demostrar que una discapacidad del habla como una afasia o  una agnosia no son una barrera para la autonomía e independencia de la persona que vive con ella.
 
+## Dataset
+
+Hemos sacado el dataset de diferentes proyectos de Kaggle. El dataset principal y en el que nos basamos es uno del abecedario español de chile. Como el dataset no era muy grande intentamos sacar imagenes de otros dataset de otros idiomas cuyas letras coinciden con nuestro dataset principal
+
+https://www.kaggle.com/bpablo27/abecedario-lenguaje-de-seas-chilenoespaol (Dataset principal)
+
+https://www.kaggle.com/jordiviader/american-sign-language-alphabet-static
+
+https://www.kaggle.com/danrasband/asl-alphabet-test
+
+https://www.kaggle.com/grassknoted/asl-alphabet
+
 ## Pre-requisitos
 Para ejecutar el proyecto, necesitas las siguientes librerías: Tensorflow, OpenCV, Numpy, Pandas, Matplotlib, Seaborn y Sklearn.
 Si lo  prefieres puedes ejecutarlo desde la plataforma Google Colab, donde no necesitas instalar las librerías.
