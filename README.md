@@ -1,5 +1,5 @@
 # Reconocimiento-Alfabeto-Signos
-Proyect de reconocimiento del alfabeto español de signos por medio de Deep Learning.
+Proyecto de reconocimiento del alfabeto español de signos por medio de Deep Learning.
 
 Por Sara Cristina Valle, Mattin Irigoien y Juan Campos.
 Tutor : Carlos Santana Vega
